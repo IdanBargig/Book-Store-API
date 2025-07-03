@@ -1,0 +1,11 @@
+id,Title,Author,Genre,Price,Availability
+1,To Kill a Mockingbird,Harper Lee,Fiction,9.99,In Stock
+2,1984,George Orwell,Fiction,8.99,In Stock
+3,The Great Gatsby,F. Scott Fitzgerald,Fiction,10.99,Out of Stock
+4,One Hundred Years of Solitude,Gabriel Garcia Marquez,Fiction,12.99,In Stock
+5,Brave New World,Aldous Huxley,Fiction,7.99,In Stock
+6,Pride and Prejudice,Jane Austen,Romance,6.99,In Stock
+7,The Catcher in the Rye,J.D. Salinger,Fiction,11.99,In Stock
+8,Animal Farm,George Orwell,Fiction,5.99,In Stock
+9,The Diary of a Young Girl,Anne Frank,Non-fiction,9.99,In Stock
+10,The Hobbit,J.R.R. Tolkien,Fantasy,13.99,In Stock
